@@ -22,6 +22,20 @@ Reads grid power from a WattWächter energy meter via MQTT and automatically swi
 - Shelly Plug S / Plus Plug S (Gen 1, 2, or 3)
 - WattWächter (Tasmota energy meter publishing MQTT)
 
+
+## Programming 
+Flash via browser (ESP Web Tool)
+No software install needed — works in Chrome or Edge only (not Firefox).
+
+Download bin file 
+Go to https://esp.huhn.me
+Click Connect → select your Wemos D1 Mini COM port
+Click Add file → set address to 0x0 → select the .bin file
+Click Program — takes about 30 seconds
+
+After flashing, the device boots into AP mode. Connect to FartNSpark and check the Serial Monitor for the AP password.
+
+
 ## Quick start
 
 1. Flash `deye_shelly_8266V1_v4010.ino` via Arduino IDE
