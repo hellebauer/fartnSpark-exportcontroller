@@ -2,7 +2,7 @@
 
 **Solar export controller for ESP8266 (Wemos D1 Mini) + Shelly plugs**
 
-Reads grid power from a WattWächter energy meter via MQTT and automatically switches PV microinverters on and off to keep grid export below a configurable threshold. Up to 8 Shelly plugs (Gen 1/2/3) supported.
+Reads grid power from a WattWächter energy meter via MQTT and automatically switches up to 8 PV inverters on and off to keep grid export below a configurable threshold. Will work with any type of single phase inverter. Up to 8 Shelly plugs (Gen 1/2/3) supported.
 
 ---
 
@@ -19,7 +19,7 @@ Reads grid power from a WattWächter energy meter via MQTT and automatically swi
 ## Hardware
 
 - Wemos D1 Mini (ESP8266, 4 MB flash)
-- Shelly Plug S / Plus Plug S (Gen 1, 2, or 3)
+- Shelly Plug S / Plus Plug S / Shelly switches (Gen 1, 2, or 3)
 - WattWächter (Tasmota energy meter publishing MQTT)
 
 
