@@ -65,3 +65,7 @@ See [FartNSpark_Manual_v4010.md](FartNSpark_Manual_v4010.md) for the full safety
 ## License
 
 MIT © hellebauer
+
+
+![Web UI](capture.png)
+
