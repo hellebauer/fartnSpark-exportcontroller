@@ -38,7 +38,9 @@ After flashing, the device boots into AP mode. Connect to FartNSpark and check t
 
 ## Quick start
 
-1. Flash `deye_shelly_8266V1_v4011.ino` or newer file via Arduino IDE  or Webflasher (see above)
+Best to read the Quickstart Guide (FartNSpark_QuickStart.md)
+
+1. Flash `deye_shelly_8266V1_v4011.ino` or newer file via Arduino IDE  or 'deye_shelly_8266V1_v4011.ino.bin' via Webflasher (see above)
 2. Connect to Wi-Fi AP **FartNSpark** — check Serial Monitor for password
 3. Browse to `http://192.168.4.1` — enter Wi-Fi and MQTT settings
 4. Add your Shelly plug IPs and inverter nominal power
