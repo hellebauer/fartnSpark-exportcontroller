@@ -4,6 +4,7 @@
 
 Reads grid power from a WattWächter energy meter via MQTT and automatically switches up to 8 PV inverters (any brand and model) on and off to keep grid export below a configurable threshold. Will work with any type of single phase inverter. Up to 8 Shelly plugs (Gen 1/2/3) supported.
 
+EDIT: This (V4.011) currently works not only with WattWächter, but also with any MQTT-based smart meter—such as all Tasmota-based meters, or Deye, Solis, and Goodwe inverters... basically anything with MQTT. If anyone is interested, I can also include HTML-based meters: Shelly 3EM, Fronius, ...Or even MODBUS-TCP: SDM630, Kostal, EM24.
 ---
 
 ## What it does
