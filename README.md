@@ -62,7 +62,7 @@ See [FartNSpark_Manual_v4010.md](FartNSpark_Manual_v4010.md) for full documentat
 
 This firmware is provided for educational and experimental purposes only. It involves control of mains-voltage equipment (230 V AC). The author accepts no liability for damage to property, injury, or death resulting from its use. Installation must be carried out by a qualified electrician in accordance with all applicable local regulations. Use entirely at your own risk.
 
-See [FartNSpark_Manual_v4010.md](FartNSpark_Manual_v4010.md) for the full safety and legal notice before installing.
+See [FartNSpark_Manual_v4011.md](FartNSpark_Manual_v4011.md) for the full safety and legal notice before installing.
 
 ## License
 
